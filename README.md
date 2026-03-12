@@ -9,12 +9,19 @@ This project demonstrates how **AI agents can automate the role of a data analys
 # 🚀 Features
 
 • Upload any CSV dataset
+
 • Automatic **data cleaning**
+
 • **Auto chart selection** based on dataset
+
 • Data **trend detection**
+
 • **Highest & lowest value detection**
+
 • AI-generated insights
+
 • **PDF report generation**
+
 • **PowerPoint presentation generation**
 
 ---
@@ -24,10 +31,15 @@ This project demonstrates how **AI agents can automate the role of a data analys
 The AI Data Analyst Agent performs the following tasks automatically:
 
 1️⃣ Clean the dataset
+
 2️⃣ Select appropriate chart type
+
 3️⃣ Generate visualizations
+
 4️⃣ Detect patterns and trends
+
 5️⃣ Generate AI insights
+
 6️⃣ Create downloadable reports
 
 ---
@@ -35,27 +47,44 @@ The AI Data Analyst Agent performs the following tasks automatically:
 # 📊 Project Architecture
 
 User Upload CSV
+
 ↓
+
 Data Cleaning Agent
+
 ↓
+
 Visualization Agent
+
 ↓
+
 Trend Detection Agent
+
 ↓
+
 Insight Generation Agent
+
 ↓
+
 Report Generation (PDF + PPT)
+
 
 ---
 
 # 🛠 Tech Stack
 
 Python
+
 Streamlit
+
 Pandas
+
 Matplotlib
+
 FPDF
+
 python-pptx
+
 
 ---
 
@@ -109,6 +138,7 @@ streamlit run app.py
 # ☁️ Deployment on AWS EC2
 
 1. Launch an EC2 instance
+
 2. Connect using SSH
 
 ```
@@ -146,20 +176,30 @@ http://YOUR_PUBLIC_IP:8501
 The agent automatically generates:
 
 • Data visualizations
+
 • Trend analysis
+
 • AI insights
+
 • PDF report
+
 • PowerPoint presentation
+
 
 ---
 
 # 🎯 Use Cases
 
 • Business analytics automation
+
 • Sales data analysis
+
 • Marketing insights generation
+
 • Academic data analysis
+
 • Automated reporting systems
+
 
 ---
 
@@ -173,9 +213,13 @@ AI Developer | Machine Learning | Generative AI | Agentic AI
 # ⭐ Future Improvements
 
 • LangChain agent integration
+
 • LLM-based dataset explanation
+
 • Automatic dashboard generation
+
 • Multi-dataset analysis
+
 • Auto PowerPoint visualization slides
 
 ---
