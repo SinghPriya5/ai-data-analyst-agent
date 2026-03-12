@@ -6,6 +6,14 @@ This project demonstrates how **AI agents can automate the role of a data analys
 
 ---
 
+## 🎥 Project Demo
+
+Watch the project demo on LinkedIn:
+
+🔗 [View Demo Video](https://www.linkedin.com/posts/priya-singh-0a815b261_ai-generativeai-agenticai-ugcPost-7437782105088180226-LfD8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBFu8ABmeXJXmtGXQ0X6T79P1X5hsGOmws)
+
+---
+
 # 🚀 Features
 
 • Upload any CSV dataset
